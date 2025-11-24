@@ -2,7 +2,7 @@
 
 ### Digital Oilfields • Machine Learning • Petroleum Engineering
 
-[![](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://x.com/SobhanKohanpour) [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobhan-kohanpour/)[![](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sobhan_kohanpour)[![](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kohanpour.sobhan@gmail.com) ![](https://komarev.com/ghpvc/?username=sobhankohanpour&color=blue) [![](https://img.shields.io/github/followers/sobhankohanpour?label=Follow&style=social)](https://github.com/sobhankohanpour) 
+[![](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://x.com/SobhanKohanpour) [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobhan-kohanpour/)[![](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sobhan_kohanpour)[![](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kohanpour.sobhan@gmail.com) ![](https://komarev.com/ghpvc/?username=sobhankohanpour&color=ff69b4) [![](https://img.shields.io/github/followers/sobhankohanpour?label=Follow&style=social)](https://github.com/sobhankohanpour)
 
 ## 🛢️ About Me
 
@@ -47,6 +47,9 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Data%20Notebooks-F37626?style=for-the-badge&logo=jupyter)
 
 ## 📊 GitHub Analytics
+
+
+
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sobhankohanpour&theme=github_dark" width="100%">
 
