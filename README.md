@@ -13,7 +13,6 @@
 
 💡 I work at the intersection of **production engineering**, **Python**, **machine learning**, and **LLM-driven automation** to support real-time optimization and predictive field management in modern digital oilfields.
 
-
 ## ⚙️🖥 Tech Stack & Expertise
 
 ### 🛢️ Digital Oilfields & Petroleum Engineering
@@ -26,34 +25,32 @@
 
 ### 🤖 Machine Learning & AI
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Modeling-blue?style=for-the-badge&logo=tensorflow)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-purple?style=for-the-badge&logo=pytorch)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Analytics%20%26%20Insights-teal?style=for-the-badge&logo=anaconda)
 ![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-Production%20Forecasting-orange?style=for-the-badge&logo=fastapi)
 ![LLM Automation](https://img.shields.io/badge/LLM%20Automation-Agentic%20Workflows-blue?style=for-the-badge&logo=openai)
 ![Real-Time AI](https://img.shields.io/badge/Real--Time%20AI-Streaming%20Inference-yellow?style=for-the-badge&logo=vectorworks)
 
 ### 🐍 Python Ecosystem
-![Python](https://img.shields.io/badge/Python-Engineering%20Automation-blue?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-gray?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Models-orange?style=for-the-badge&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge&logo=plotly)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-9cf?style=for-the-badge&logo=seaborn)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-Telegram%20Bot%20Framework-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Reflex](https://img.shields.io/badge/Reflex-Powerful%20UI%20in%20Python-7C6CF3?style=for-the-badge&logo=react&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-Scripting%20%7C%20Automation%20%7C%20Engineering-blue?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing%20%7C%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-Math%20%7C%20Arrays%20%7C%20Numerics-2E5C84?style=for-the-badge&logo=numpy&logoColor=013243)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Models-orange?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge&logo=plotly)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-9cf?style=for-the-badge&logo=seaborn&logoColor=1A77C9)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=FFFFFF)
+![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-Telegram%20Bot%20Framework-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)
+![Reflex](https://img.shields.io/badge/Reflex-Powerful%20UI%20in%20Python-7C6CF3?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🛠 Developer Tools & Ops
-![Linux](https://img.shields.io/badge/Linux-Servers%20%26%20Ops-black?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/VS%20Code-Development-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git)
-![Jupyter](https://img.shields.io/badge/Jupyter-Data%20Notebooks-F37626?style=for-the-badge&logo=jupyter)
+
+![Linux](https://img.shields.io/badge/Linux-OS%20%26%20Shell%20%26%20Engineering-1E1E1E?style=for-the-badge&logo=linux&logoColor=FFD700)
+![Git](https://img.shields.io/badge/Git-Version%20Control-FF6F00?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-Projects%20%26%20Contributions-24292F?style=for-the-badge&logo=github&logoColor=ffffff)
+![Jupyter](https://img.shields.io/badge/Jupyter-ML%20&%20Data%20Lab-F15A29?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![VS Code](https://img.shields.io/badge/VS%20Code-Primary%20Code%20Editor-005BBB?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 ## 📊 GitHub Analytics
-
-
-
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sobhankohanpour&theme=github_dark" width="100%">
 
