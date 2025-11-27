@@ -39,6 +39,10 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Models-orange?style=for-the-badge&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge&logo=plotly)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-9cf?style=for-the-badge&logo=seaborn)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-Telegram%20Bot%20Framework-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Reflex](https://img.shields.io/badge/Reflex-Powerful%20UI%20in%20Python-7C6CF3?style=for-the-badge&logo=react&logoColor=white)
+
 
 ### 🛠 Developer Tools & Ops
 ![Linux](https://img.shields.io/badge/Linux-Servers%20%26%20Ops-black?style=for-the-badge&logo=linux)
