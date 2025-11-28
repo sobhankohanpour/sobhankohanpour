@@ -40,7 +40,8 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-9cf?style=for-the-badge&logo=seaborn&logoColor=1A77C9)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=FFFFFF)
 ![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-Telegram%20Bot%20Framework-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)
-![Reflex](https://img.shields.io/badge/Reflex-Powerful%20UI%20in%20Python-7C6CF3?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Reflex](https://img.shields.io/badge/Reflex-Frontend%20%26%20Backend-7C6CF3?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ### 🛠 Developer Tools & Ops
 
