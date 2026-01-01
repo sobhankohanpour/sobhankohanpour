@@ -1,9 +1,27 @@
-<svg viewBox="0 0 500 100">
-  <text x="50%" y="50%" text-anchor="middle"
-        font-size="40" fill="none" stroke="#40c463" stroke-width="2">
-    <animate attributeName="stroke-dashoffset"
-             from="500" to="0" dur="3s" fill="freeze" />
+<svg viewBox="0 0 600 120" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#40c463"/>
+      <stop offset="100%" stop-color="#2ea44f"/>
+    </linearGradient>
+  </defs>
+
+  <text x="50%" y="70%"
+        text-anchor="middle"
+        font-size="48"
+        font-family="monospace"
+        fill="none"
+        stroke="url(#grad)"
+        stroke-width="2"
+        stroke-dasharray="600"
+        stroke-dashoffset="600">
     WELCOME
+    <animate
+      attributeName="stroke-dashoffset"
+      from="600"
+      to="0"
+      dur="2.5s"
+      fill="freeze" />
   </text>
 </svg>
 
