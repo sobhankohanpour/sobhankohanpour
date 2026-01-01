@@ -1,17 +1,28 @@
-# Sobhan Kohanpour
+<svg viewBox="0 0 500 100">
+  <text x="50%" y="50%" text-anchor="middle"
+        font-size="40" fill="none" stroke="#40c463" stroke-width="2">
+    <animate attributeName="stroke-dashoffset"
+             from="500" to="0" dur="3s" fill="freeze" />
+    WELCOME
+  </text>
+</svg>
 
-### Digital Oilfields • Machine Learning • Petroleum Engineering
+# Hi , I'm Sobhan Kohanpour
+
+### Advanced Python Developer • ML & LLM Engineer
 
 [![](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://x.com/SobhanKohanpour) [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobhan-kohanpour/)[![](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sobhan_kohanpour)[![](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kohanpour.sobhan@gmail.com) ![](https://komarev.com/ghpvc/?username=sobhankohanpour&color=ff69b4) [![](https://img.shields.io/github/followers/sobhankohanpour?label=Follow&style=social)](https://github.com/sobhankohanpour)
 
+
 ## 🛢️ About Me
 
-<div class="joplin-table-wrapper"><table class="jop-noMdConv"><tbody class="jop-noMdConv"><tr class="jop-noMdConv"><td width="130" class="jop-noMdConv"><img src="images/Digital Oilfields (DOF) - Logo.png" width="120" height="120" style="border-radius: 50%; object-fit: cover;" class="jop-noMdConv"></td><td class="jop-noMdConv"><h3 id="founder-digital-oilfields-dof" class="jop-noMdConv">Founder — <a href="https://www.linkedin.com/company/digital-oilfields-dof" class="jop-noMdConv" title=""><b class="jop-noMdConv">Digital Oilfields (DOF)</b></a></h3><p>Transforming Oil &amp; Gas operations using data-driven automation and AI-driven decision support.</p><ul class="jop-noMdConv"><li class="jop-noMdConv">🔗 Follow the company on <strong class="jop-noMdConv"><a title="https://www.linkedin.com/company/digital-oilfields-dof" href="https://www.linkedin.com/company/digital-oilfields-dof" class="jop-noMdConv">LinkedIn</a></strong></li><li class="jop-noMdConv">💬 Join our technical community on<b>&nbsp;<a href="https://www.linkedin.com/groups/15698156/" title="DOF gp on LinkedIn">LinkedIn</a>&nbsp;</b></li><li>Join our <a title="https://t.me/digital_oilfields_dof" href="https://t.me/digital_oilfields_dof">Telegram Channel</a> for insights and updates</li></ul></td></tr></tbody></table></div>
+<div class="joplin-table-wrapper"><table class="jop-noMdConv"><tbody class="jop-noMdConv"><tr class="jop-noMdConv"><td width="130" class="jop-noMdConv"><img src="images/Digital Oilfields (DOF) - Logo.png" width="120" height="120" style="border-radius: 50%; object-fit: cover;" class="jop-noMdConv"></td><td class="jop-noMdConv"><h3 id="founder-digital-oilfields-dof" class="jop-noMdConv">Founder — <a href="https://www.linkedin.com/company/digital-oilfields-dof" class="jop-noMdConv"><b>Digital Oilfields (DOF)</b></a></h3><p>Driving the digital transformation of Oil & Gas operations through <strong>Python development</strong>, <strong>machine learning</strong>, and <strong>LLM-powered automation</strong> for smart production optimization.</p><ul class="jop-noMdConv"><li>🔗 Follow the company on <a href="https://www.linkedin.com/company/digital-oilfields-dof">LinkedIn</a></li><li>💬 Join our technical community on <a href="https://www.linkedin.com/groups/15698156/">LinkedIn</a></li><li>📡 Stay updated via our <a href="https://t.me/digital_oilfields_dof">Telegram Channel</a></li></ul></td></tr></tbody></table></div>
 
-🎥 **Technical Content Creator** — sharing knowledge on smart production optimization and AI in petroleum engineering.  
+🎥 **Technical Content Creator** — sharing hands-on tutorials and insights on <strong>Python</strong>, <strong>ML workflows</strong>, and <strong>LLM applications</strong> in petroleum engineering.  
 📫 **Email:** **kohanpour.sobhan@gmail.com**
 
-💡 I work at the intersection of **production engineering**, **Python**, **machine learning**, and **LLM-driven automation** to support real-time optimization and predictive field management in modern digital oilfields.
+💡 I actively contribute to **digital oilfield projects**, leveraging **advanced Python programming**, **machine learning**, and **LLM-driven solutions** to optimize real-time operations, predictive maintenance, and field management.
+
 
 ## ⚙️🖥 Tech Stack & Expertise
 
