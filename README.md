@@ -1,29 +1,7 @@
-<svg viewBox="0 0 600 120" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#40c463"/>
-      <stop offset="100%" stop-color="#2ea44f"/>
-    </linearGradient>
-  </defs>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=40C463&center=true&vCenter=true&width=600&lines=WELCOME;Advanced+Python+Developer;ML+%26+LLM+Engineer;Digital+Oilfields" />
+</p>
 
-  <text x="50%" y="70%"
-        text-anchor="middle"
-        font-size="48"
-        font-family="monospace"
-        fill="none"
-        stroke="url(#grad)"
-        stroke-width="2"
-        stroke-dasharray="600"
-        stroke-dashoffset="600">
-    WELCOME
-    <animate
-      attributeName="stroke-dashoffset"
-      from="600"
-      to="0"
-      dur="2.5s"
-      fill="freeze" />
-  </text>
-</svg>
 
 # Hi , I'm Sobhan Kohanpour
 
